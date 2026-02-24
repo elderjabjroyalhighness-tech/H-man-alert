@@ -8,6 +8,9 @@
     "scheme": "humanalert",
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
+
+    "owner": "elderjman",
+
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.humanalert.app",
@@ -18,6 +21,7 @@
         "UIBackgroundModes": ["location", "fetch", "remote-notification", "audio"]
       }
     },
+
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
@@ -42,11 +46,13 @@
         "READ_EXTERNAL_STORAGE"
       ]
     },
+
     "web": {
       "bundler": "metro",
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
+
     "plugins": [
       "expo-router",
       [
@@ -83,9 +89,11 @@
         }
       ]
     ],
+
     "experiments": {
       "typedRoutes": true
     },
+
     "extra": {
       "eas": {
         "projectId": "78e3f3c9-97e2-48ee-a8a2-5aab385a7e77"
@@ -95,12 +103,13 @@
       },
       "backendUrl": "https://safe-radius.preview.emergentagent.com"
     },
-    "owner": "humanalert",
+
     "runtimeVersion": {
       "policy": "appVersion"
     },
+
     "updates": {
-      "url": "https://u.expo.dev/h-man-alert"
+      "url": "https://u.expo.dev/78e3f3c9-97e2-48ee-a8a2-5aab385a7e77"
     }
   }
 }
