@@ -90,6 +90,9 @@
       "eas": {
         "projectId": "h-man-alert"
       },
+      "is": {
+        "project_feed": "h-man-alert"
+      },
       "backendUrl": "https://safe-radius.preview.emergentagent.com"
     },
     "owner": "humanalert",
