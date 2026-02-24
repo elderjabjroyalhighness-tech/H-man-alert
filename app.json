@@ -7,6 +7,9 @@
     "icon": "./assets/images/icon.png",
     "scheme": "humanalert",
     "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+
+    "owner": "elderjman",
 
     "ios": {
       "supportsTablet": true,
@@ -91,8 +94,22 @@
       "typedRoutes": true
     },
 
+    "extra": {
+      "eas": {
+        "projectId": "78e3f3c9-97e2-48ee-a8a2-5aab385a7e77"
+      },
+      "is": {
+        "project_feed": "h-man-alert"
+      },
+      "backendUrl": "https://safe-radius.preview.emergentagent.com"
+    },
+
     "runtimeVersion": {
       "policy": "appVersion"
+    },
+
+    "updates": {
+      "url": "https://u.expo.dev/78e3f3c9-97e2-48ee-a8a2-5aab385a7e77"
     }
   }
 }
