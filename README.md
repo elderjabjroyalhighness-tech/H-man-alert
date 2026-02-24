@@ -48,3 +48,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Project Info
+
+- **App Name:** Human Alert
+- **Version:** 1.0.0
+- **Platform:** Android (Internal Distribution Build)
+- **Backend:** Connected to Emergent Preview Server
+- **Purpose:** Send emergency alerts and track user location for safety
