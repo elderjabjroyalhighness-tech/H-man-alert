@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Human Alert",
-    "slug": "human-alert",
+    "slug": "h-man-alert",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -88,7 +88,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "human-alert-emergency"
+        "projectId": "h-man-alert"
       },
       "backendUrl": "https://safe-radius.preview.emergentagent.com"
     },
@@ -97,7 +97,7 @@
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/human-alert-emergency"
+      "url": "https://u.expo.dev/h-man-alert"
     }
   }
 }
